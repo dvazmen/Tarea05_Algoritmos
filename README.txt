@@ -1,0 +1,17 @@
+Este proyecto es un visualizador de transformaciones lineales a polígonos en QT. Para poder modificar el proyecto, se debe tener instalado QT. 
+
+Se puede obtener QT de http://www.qt.io/product/
+
+El proyecto se ejecuta al abrir Tarea05.pro
+Una vez abierto, en la ventana de QT el menú "build" contiene la opción "Run" para compilar y ejecutar el programa.
+
+La ventana inicial del programa ofrece todos los polígonos disponibles. Seleccionar uno de ellos abre una segunda ventana en la cual se puede interactuar con el polígono. En la ventana se ofrecen las siguientes opciones:
+	Rotar
+	Trasladar
+	Reflexión Horizontal
+	Reflexión Vertical
+	Zoom In (Agrandar)
+	Zoom Out (Achicar)
+
+Para dibujar la figura hay que hacer click en "Dibujar". Si la figura ya está dibujada y se hace click de nuevo en este botón, la figura se borra. Los botones "Ok" y "Cancel", en la parte inferior de la pantalla, cierran la ventana actual.
+
